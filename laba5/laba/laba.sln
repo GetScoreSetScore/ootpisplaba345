@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30105.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laba", "laba\laba.csproj", "{FE335411-4330-47F8-B269-B0AD4D09F7F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures", "..\..\Figures\Figures\Figures.csproj", "{88165BDF-3478-4B5B-9CBA-778A9FC8F6C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures", "Figures\Figures\Figures.csproj", "{88165BDF-3478-4B5B-9CBA-778A9FC8F6C6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiguresLibrary", "FiguresLibrary\FiguresLibrary.csproj", "{ED5AF5EC-D839-48E3-AE3F-0C62F3DA6A42}"
 EndProject
@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLtoJSONdeprocessor", "XML
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZipProcessor", "ZipProcessor\ZipProcessor.csproj", "{16A1A60C-E3D4-4E7B-BDB3-58171F2D1D9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipDeprocessor", "ZipDeprocessor\ZipDeprocessor.csproj", "{9476325C-D4BF-44D3-B47F-14837D6147D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZipDeprocessor", "ZipDeprocessor\ZipDeprocessor.csproj", "{9476325C-D4BF-44D3-B47F-14837D6147D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

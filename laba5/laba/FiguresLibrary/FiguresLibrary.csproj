@@ -45,8 +45,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Figures\Figures\Figures.csproj">
-      <Project>{88165BDF-3478-4B5B-9CBA-778A9FC8F6C6}</Project>
+    <ProjectReference Include="..\Figures\Figures\Figures.csproj">
+      <Project>{88165bdf-3478-4b5b-9cba-778a9fc8f6c6}</Project>
       <Name>Figures</Name>
     </ProjectReference>
   </ItemGroup>

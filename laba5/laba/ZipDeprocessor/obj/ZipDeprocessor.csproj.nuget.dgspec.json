@@ -1,27 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\laba5\\laba\\ZipDeprocessor\\ZipDeprocessor.csproj": {}
+    "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\ootpisplaba345\\laba5\\laba\\ZipDeprocessor\\ZipDeprocessor.csproj": {}
   },
   "projects": {
-    "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\laba5\\laba\\BasePlugins\\BasePlugins.csproj": {
+    "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\ootpisplaba345\\laba5\\laba\\BasePlugins\\BasePlugins.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\laba5\\laba\\BasePlugins\\BasePlugins.csproj",
+        "projectUniqueName": "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\ootpisplaba345\\laba5\\laba\\BasePlugins\\BasePlugins.csproj",
         "projectName": "BasePlugins",
-        "projectPath": "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\laba5\\laba\\BasePlugins\\BasePlugins.csproj"
+        "projectPath": "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\ootpisplaba345\\laba5\\laba\\BasePlugins\\BasePlugins.csproj"
       },
       "frameworks": {
         "net40": {}
       }
     },
-    "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\laba5\\laba\\ZipDeprocessor\\ZipDeprocessor.csproj": {
+    "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\ootpisplaba345\\laba5\\laba\\ZipDeprocessor\\ZipDeprocessor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\laba5\\laba\\ZipDeprocessor\\ZipDeprocessor.csproj",
+        "projectUniqueName": "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\ootpisplaba345\\laba5\\laba\\ZipDeprocessor\\ZipDeprocessor.csproj",
         "projectName": "ZipDeprocessor",
-        "projectPath": "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\laba5\\laba\\ZipDeprocessor\\ZipDeprocessor.csproj",
+        "projectPath": "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\ootpisplaba345\\laba5\\laba\\ZipDeprocessor\\ZipDeprocessor.csproj",
         "packagesPath": "C:\\Users\\ANev\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\laba5\\laba\\ZipDeprocessor\\obj\\",
+        "outputPath": "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\ootpisplaba345\\laba5\\laba\\ZipDeprocessor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ANev\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,8 +37,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\laba5\\laba\\BasePlugins\\BasePlugins.csproj": {
-                "projectPath": "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\laba5\\laba\\BasePlugins\\BasePlugins.csproj"
+              "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\ootpisplaba345\\laba5\\laba\\BasePlugins\\BasePlugins.csproj": {
+                "projectPath": "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\ootpisplaba345\\laba5\\laba\\BasePlugins\\BasePlugins.csproj"
               }
             }
           }

@@ -3,4 +3,7 @@
   <PropertyGroup>
     <ProjectView>ShowAllFiles</ProjectView>
   </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>D:\University\2course\4semester\labs\OOTPiSP\ootpisplaba345\laba5\laba\Figures\</ReferencePath>
+  </PropertyGroup>
 </Project>

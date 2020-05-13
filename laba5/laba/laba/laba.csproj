@@ -88,13 +88,13 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Figures\Figures\Figures.csproj">
-      <Project>{88165BDF-3478-4B5B-9CBA-778A9FC8F6C6}</Project>
-      <Name>Figures</Name>
-    </ProjectReference>
     <ProjectReference Include="..\BasePlugins\BasePlugins.csproj">
       <Project>{48406653-C201-49B0-96C4-C82C69EAF234}</Project>
       <Name>BasePlugins</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Figures\Figures\Figures.csproj">
+      <Project>{88165bdf-3478-4b5b-9cba-778a9fc8f6c6}</Project>
+      <Name>Figures</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup />

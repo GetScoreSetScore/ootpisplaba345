@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c8fo1JP1JitHjOF9l4ikPc5IqELx81uXWDeafV6cfiRM5PcRrtSGSiYzRU/iJ2fYNsMTLyFhbDabyUQGxcuteA==",
+  "dgSpecHash": "Jr3PjpgcPBHne7AMdMdSXr+rRBK1Q/JvNSiMloihBLYPCogOUxK54hrdQCRfjrcpUWkIYaud8Xb1k4G2DHcMIw==",
   "success": true,
-  "projectFilePath": "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\laba5\\laba\\ZipDeprocessor\\ZipDeprocessor.csproj",
+  "projectFilePath": "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\ootpisplaba345\\laba5\\laba\\ZipDeprocessor\\ZipDeprocessor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ANev\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\ANev\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
