@@ -1,0 +1,34 @@
+<root xmlns:json="http://james.newtonking.com/projects/json" json:type="Drawer.ShapesList, Figures">
+  <list json:type="System.Collections.Generic.List`1[[Shapes.Figure, Figures]], mscorlib">
+    <values json:type="Shapes.Rectangle, Figures" xmlns="http://james.newtonking.com/projects/json">
+      <Name xmlns="">Rectangle</Name>
+      <Startpoint xmlns="">171, 101</Startpoint>
+      <Endpoint xmlns="">695, 310</Endpoint>
+      <Vertices json:type="System.Drawing.Point[], System.Drawing" xmlns="">
+        <values xmlns="http://james.newtonking.com/projects/json">171, 101</values>
+        <values xmlns="http://james.newtonking.com/projects/json">695, 101</values>
+        <values xmlns="http://james.newtonking.com/projects/json">695, 310</values>
+        <values xmlns="http://james.newtonking.com/projects/json">171, 310</values>
+      </Vertices>
+      <Width xmlns="">524</Width>
+      <Height xmlns="">209</Height>
+      <ShapeColor xmlns="">Red</ShapeColor>
+      <Rotation xmlns="">0</Rotation>
+    </values>
+    <values json:type="Shapes.Square, Figures" xmlns="http://james.newtonking.com/projects/json">
+      <Name xmlns="">Square</Name>
+      <Startpoint xmlns="">279, 115</Startpoint>
+      <Endpoint xmlns="">765, 304</Endpoint>
+      <Vertices json:type="System.Drawing.Point[], System.Drawing" xmlns="">
+        <values xmlns="http://james.newtonking.com/projects/json">279, 115</values>
+        <values xmlns="http://james.newtonking.com/projects/json">468, 115</values>
+        <values xmlns="http://james.newtonking.com/projects/json">468, 304</values>
+        <values xmlns="http://james.newtonking.com/projects/json">279, 304</values>
+      </Vertices>
+      <Width xmlns="">189</Width>
+      <Height xmlns="">189</Height>
+      <ShapeColor xmlns="">Red</ShapeColor>
+      <Rotation xmlns="">0</Rotation>
+    </values>
+  </list>
+</root>

@@ -1,0 +1,27 @@
+{
+  "$type": "Drawer.ShapesList, Figures",
+  "list": {
+    "$type": "System.Collections.Generic.List`1[[Shapes.Figure, Figures]], mscorlib",
+    "$values": [
+      {
+        "$type": "Shapes.Rectangle, Figures",
+        "Name": "Rectangle",
+        "Startpoint": "171, 101",
+        "Endpoint": "695, 310",
+        "Vertices": {
+          "$type": "System.Drawing.Point[], System.Drawing",
+          "$values": [
+            "171, 101",
+            "695, 101",
+            "695, 310",
+            "171, 310"
+          ]
+        },
+        "Width": 524,
+        "Height": 209,
+        "ShapeColor": "Red",
+        "Rotation": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "$type": "Drawer.ShapesList, Figures",
+  "list": {
+    "$type": "System.Collections.Generic.List`1[[Shapes.Figure, Figures]], mscorlib",
+    "$values": [
+      {
+        "$type": "Shapes.Triangle, Figures",
+        "Name": "Triangle",
+        "Startpoint": "138, 108",
+        "Endpoint": "614, 342",
+        "Vertices": {
+          "$type": "System.Drawing.Point[], System.Drawing",
+          "$values": [
+            "376, 108",
+            "614, 342",
+            "138, 342"
+          ]
+        },
+        "Width": 476,
+        "Height": 234,
+        "ShapeColor": "Red",
+        "Rotation": 0
+      }
+    ]
+  }
+}

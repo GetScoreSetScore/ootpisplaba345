@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nzQiLXoHLf1WUIAeykJdGe/GR9RK/S0uxo4Sv6cR7Coniy0EsGT0JWGvHgtqNsLg56pw69/mD+bV0PMfel/9Cg==",
+  "success": true,
+  "projectFilePath": "D:\\University\\2course\\4semester\\labs\\OOTPiSP\\laba5\\laba\\ZipProcessor\\ZipProcessor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANev\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ANev\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

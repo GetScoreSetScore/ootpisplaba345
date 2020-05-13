@@ -1,0 +1,9 @@
+D:\University\2course\4semester\labs\OOTPiSP\laba5\laba\XMLtoJSONdeprocessor\bin\Debug\XMLtoJSONdeprocessor.dll
+D:\University\2course\4semester\labs\OOTPiSP\laba5\laba\XMLtoJSONdeprocessor\bin\Debug\XMLtoJSONdeprocessor.pdb
+D:\University\2course\4semester\labs\OOTPiSP\laba5\laba\XMLtoJSONdeprocessor\bin\Debug\BasePlugins.dll
+D:\University\2course\4semester\labs\OOTPiSP\laba5\laba\XMLtoJSONdeprocessor\bin\Debug\Newtonsoft.Json.dll
+D:\University\2course\4semester\labs\OOTPiSP\laba5\laba\XMLtoJSONdeprocessor\bin\Debug\BasePlugins.pdb
+D:\University\2course\4semester\labs\OOTPiSP\laba5\laba\XMLtoJSONdeprocessor\bin\Debug\Newtonsoft.Json.xml
+D:\University\2course\4semester\labs\OOTPiSP\laba5\laba\XMLtoJSONdeprocessor\obj\Debug\XMLtoJSONdeprocessor.csprojResolveAssemblyReference.cache
+D:\University\2course\4semester\labs\OOTPiSP\laba5\laba\XMLtoJSONdeprocessor\obj\Debug\XMLtoJSONdeprocessor.dll
+D:\University\2course\4semester\labs\OOTPiSP\laba5\laba\XMLtoJSONdeprocessor\obj\Debug\XMLtoJSONdeprocessor.pdb

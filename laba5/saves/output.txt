@@ -1,0 +1,200 @@
+{
+  "$type": "Drawer.ShapesList, Figures",
+  "list": {
+    "$type": "System.Collections.Generic.List`1[[Shapes.Figure, Figures]], mscorlib",
+    "$values": [
+      {
+        "$type": "Shapes.Line, Figures",
+        "Name": "Line",
+        "Startpoint": "34, 37",
+        "Endpoint": "298, 57",
+        "Vertices": {
+          "$type": "System.Drawing.Point[], System.Drawing",
+          "$values": [
+            "34, 37",
+            "298, 57"
+          ]
+        },
+        "Width": 264,
+        "Height": 20,
+        "ShapeColor": "Red",
+        "Rotation": 0
+      },
+      {
+        "$type": "Shapes.Rectangle, Figures",
+        "Name": "Rectangle",
+        "Startpoint": "47, 77",
+        "Endpoint": "209, 209",
+        "Vertices": {
+          "$type": "System.Drawing.Point[], System.Drawing",
+          "$values": [
+            "47, 77",
+            "209, 77",
+            "209, 209",
+            "47, 209"
+          ]
+        },
+        "Width": 162,
+        "Height": 132,
+        "ShapeColor": "Red",
+        "Rotation": 0
+      },
+      {
+        "$type": "Shapes.Square, Figures",
+        "Name": "Square",
+        "Startpoint": "416, 191",
+        "Endpoint": "502, 23",
+        "Vertices": {
+          "$type": "System.Drawing.Point[], System.Drawing",
+          "$values": [
+            "416, 191",
+            "502, 191",
+            "502, 105",
+            "416, 105"
+          ]
+        },
+        "Width": 86,
+        "Height": -86,
+        "ShapeColor": "Red",
+        "Rotation": 0
+      },
+      {
+        "$type": "Shapes.Romb, Figures",
+        "Name": "Romb",
+        "Startpoint": "301, 277",
+        "Endpoint": "395, 168",
+        "Vertices": {
+          "$type": "System.Drawing.Point[], System.Drawing",
+          "$values": [
+            "348, 277",
+            "395, 222",
+            "348, 168",
+            "301, 222"
+          ]
+        },
+        "Width": 94,
+        "Height": -109,
+        "ShapeColor": "Red",
+        "Rotation": 0
+      },
+      {
+        "$type": "Shapes.Triangle, Figures",
+        "Name": "Triangle",
+        "Startpoint": "221, 320",
+        "Endpoint": "137, 233",
+        "Vertices": {
+          "$type": "System.Drawing.Point[], System.Drawing",
+          "$values": [
+            "179, 320",
+            "137, 233",
+            "221, 233"
+          ]
+        },
+        "Width": -84,
+        "Height": -87,
+        "ShapeColor": "Red",
+        "Rotation": 0
+      },
+      {
+        "$type": "Shapes.Ellipse, Figures",
+        "BaseRectangle": {
+          "$type": "Shapes.Rectangle, Figures",
+          "Name": "Rectangle",
+          "Startpoint": "322, 409",
+          "Endpoint": "60, 393",
+          "Vertices": {
+            "$type": "System.Drawing.Point[], System.Drawing",
+            "$values": [
+              "322, 409",
+              "60, 409",
+              "60, 393",
+              "322, 393"
+            ]
+          },
+          "Width": -262,
+          "Height": -16,
+          "ShapeColor": "Red",
+          "Rotation": 0
+        },
+        "Name": "Ellipse",
+        "Startpoint": "322, 409",
+        "Endpoint": "60, 356",
+        "Width": -262,
+        "Height": -16,
+        "ShapeColor": "Red",
+        "Rotation": 0
+      },
+      {
+        "$type": "Shapes.Circle, Figures",
+        "BaseRectangle": {
+          "$type": "Shapes.Square, Figures",
+          "Name": "Square",
+          "Startpoint": "257, 286",
+          "Endpoint": "318, 347",
+          "Vertices": {
+            "$type": "System.Drawing.Point[], System.Drawing",
+            "$values": [
+              "257, 286",
+              "318, 286",
+              "318, 347",
+              "257, 347"
+            ]
+          },
+          "Width": 61,
+          "Height": 61,
+          "ShapeColor": "Red",
+          "Rotation": 0
+        },
+        "Name": "Circle",
+        "Startpoint": "257, 286",
+        "Endpoint": "340, 342",
+        "Width": 61,
+        "Height": 61,
+        "ShapeColor": "Red",
+        "Rotation": 0
+      },
+      {
+        "$type": "Shapes.Pentagon, Figures",
+        "Name": "Pentagon",
+        "Startpoint": "352, 14",
+        "Endpoint": "443, 85",
+        "Vertices": {
+          "$type": "System.Drawing.Point[], System.Drawing",
+          "$values": [
+            "397, 14",
+            "443, 42",
+            "424, 85",
+            "370, 85",
+            "352, 42"
+          ]
+        },
+        "Width": 91,
+        "Height": 71,
+        "ShapeColor": "Red",
+        "Rotation": 0
+      },
+      {
+        "$type": "Shapes.Arrow, Figures",
+        "Name": "Arrow",
+        "Startpoint": "560, 348",
+        "Endpoint": "890, 97",
+        "Vertices": {
+          "$type": "System.Drawing.Point[], System.Drawing",
+          "$values": [
+            "725, 348",
+            "890, 222",
+            "725, 97",
+            "725, 159",
+            "560, 159",
+            "560, 285",
+            "725, 285"
+          ]
+        },
+        "Width": 330,
+        "Height": -251,
+        "ShapeColor": "Red",
+        "Rotation": 0
+      }
+    ]
+  }
+}

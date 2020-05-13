@@ -1,0 +1,6 @@
+D:\University\2course\4semester\labs\OOTPiSP\Figures\Figures\bin\Debug\Figures.exe
+D:\University\2course\4semester\labs\OOTPiSP\Figures\Figures\bin\Debug\Figures.pdb
+D:\University\2course\4semester\labs\OOTPiSP\Figures\Figures\obj\x86\Debug\Figures.exe
+D:\University\2course\4semester\labs\OOTPiSP\Figures\Figures\obj\x86\Debug\Figures.pdb
+D:\University\2course\4semester\labs\OOTPiSP\Figures\Figures\obj\x86\Debug\Figures.csprojAssemblyReference.cache
+D:\University\2course\4semester\labs\OOTPiSP\Figures\Figures\obj\x86\Debug\Figures.csproj.CoreCompileInputs.cache
